@@ -4,3 +4,4 @@ Editing my project
 Learning to use push command.
 
 Solved the merge conflict
+changes done.
